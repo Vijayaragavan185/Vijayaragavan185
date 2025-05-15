@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is Vijayaragavan <br><br> I'm a Student at SRM Institute of Science and Technology, pursuing B.Tech - CSE CORE (3rd Year)<br><br>I'm aspiring to become Data Scientist and ML Engineer</h2>
+<h2 align="left"🎓 B.Tech CSE student @SRMIST | Data Scientist & ML Engineer in the making
+
+👨‍💻 Python | C/C++ | TensorFlow | Flask | OpenVINO | ESP32
+🔬 Working on: Road Pothole Detection system using ML & embedded systems
+🔭 Next: AI-based Early Autism Detection in toddlers using computer vision
+🏆 IBM Data Science & Microsoft Azure certified
+🔜 Upcoming Intel Industrial Training Program (Healthcare Kiosks)
+
+"Building AI solutions for healthcare & infrastructure that make a difference"
+
+📫 svijayaragavan185@gmail.com | linkedin.com/in/vijayaragavan185
+</h2>
 
 ###
 
