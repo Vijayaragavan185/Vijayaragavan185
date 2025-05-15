@@ -1,15 +1,4 @@
-<h2 align="left"🎓 B.Tech CSE student @SRMIST | Data Scientist & ML Engineer in the making
-
-👨‍💻 Python | C/C++ | TensorFlow | Flask | OpenVINO | ESP32
-🔬 Working on: Road Pothole Detection system using ML & embedded systems
-🔭 Next: AI-based Early Autism Detection in toddlers using computer vision
-🏆 IBM Data Science & Microsoft Azure certified
-🔜 Upcoming Intel Industrial Training Program (Healthcare Kiosks)
-
-"Building AI solutions for healthcare & infrastructure that make a difference"
-
-📫 svijayaragavan185@gmail.com | linkedin.com/in/vijayaragavan185
-</h2>
+<h2 align="left">🎓 B.Tech CSE student @SRMIST | Data Scientist & ML Engineer in the making<br><br>👨‍💻 Python | C/C++ | TensorFlow | Flask | OpenVINO | ESP32<br><br>🔬 Working on: Road Pothole Detection system using ML & embedded systems<br><br>🔭 Next: AI-based Early Autism Detection in toddlers using computer vision<br><br>🏆 IBM Data Science & Microsoft Azure certified<br><br>🔜 Upcoming Intel Industrial Training Program (Healthcare Kiosks)<br><br>"Building AI solutions for healthcare & infrastructure that make a difference"<br><br>📫 svijayaragavan185@gmail.com | linkedin.com/in/vijayaragavan185</h2>
 
 ###
 
