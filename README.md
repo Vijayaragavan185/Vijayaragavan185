@@ -1,4 +1,4 @@
-<h2 align="left">🎓 B.Tech CSE student @SRMIST | Data Scientist & ML Engineer in the making<br><br>👨‍💻 Python | C/C++ | TensorFlow | Flask | OpenVINO | ESP32<br><br>🔬 Working on: Road Pothole Detection system using ML & embedded systems<br><br>🔭 Next: AI-based Early Autism Detection in toddlers using computer vision<br><br>🏆 IBM Data Science & Microsoft Azure certified<br><br>🔜 Upcoming Intel Industrial Training Program (Healthcare Kiosks)<br><br>"Building AI solutions for healthcare & infrastructure that make a difference"<br><br>📫 svijayaragavan185@gmail.com | linkedin.com/in/vijayaragavan185</h2>
+<h3 align="left">🎓 B.Tech CSE student @SRMIST | Data Scientist & ML Engineer in the making<br><br>👨‍💻 Python | C/C++ | TensorFlow | Flask | OpenVINO | ESP32<br><br>🔬 Working on: Road Pothole Detection system using ML & embedded systems<br><br>🔭 Next: AI-based Early Autism Detection in toddlers using computer vision<br><br>🏆 IBM Data Science & Microsoft Azure certified<br><br>🔜 Upcoming Intel Industrial Training Program (Healthcare Kiosks)<br><br>"Building AI solutions for healthcare & infrastructure that make a difference"<br><br>📫 svijayaragavan185@gmail.com | linkedin.com/in/vijayaragavan185</h3>
 
 ###
 
@@ -36,16 +36,17 @@
 ###
 
 <div align="left">
-  <a href="svijayaragavan185@gmail.com" target="_blank">
+  <a href="mailto:svijayaragavan185@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vijayaragavan185/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="9025071310" target="_blank">
+  <a href="https://wa.me/919025071310" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+
 
 ###
 
